@@ -1,2 +1,3 @@
 hello
-thanh doi moi nhat 
+thanh doi moi nhat
+can sua lai 
